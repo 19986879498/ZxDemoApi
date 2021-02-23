@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZxDemoApi", "ZxDemoApi\ZxDemoApi.csproj", "{B69AC52F-6AD2-4AF2-9C25-6C0615BA76F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZxDemoCommon", "ZxDemoCommon\ZxDemoCommon.csproj", "{79AF87E7-C0AB-4B62-B327-BFBD304449DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69AC52F-6AD2-4AF2-9C25-6C0615BA76F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69AC52F-6AD2-4AF2-9C25-6C0615BA76F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69AC52F-6AD2-4AF2-9C25-6C0615BA76F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69AC52F-6AD2-4AF2-9C25-6C0615BA76F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79AF87E7-C0AB-4B62-B327-BFBD304449DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79AF87E7-C0AB-4B62-B327-BFBD304449DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79AF87E7-C0AB-4B62-B327-BFBD304449DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79AF87E7-C0AB-4B62-B327-BFBD304449DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0B89DF7-DC4F-4BDD-BAE5-95713E63C3C7}
+	EndGlobalSection
+EndGlobal
